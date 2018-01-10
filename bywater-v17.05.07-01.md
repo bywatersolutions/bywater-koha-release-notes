@@ -3,18 +3,19 @@
 
 ## Architecture, internals, and plumbing
 
+- [[19614]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=19614) Fix XSS in /cgi-bin/koha/members/pay.pl
+- [[19612]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=19612) Fix XSS in /cgi-bin/koha/members/memberentry.pl
+- [[19611]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=19611) XSS Flaws in supplier.pl
+- [[19319]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=19319) Reflected XSS Vulnerability in opac-MARCdetail.pl
+- [[19570]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=19570) autocomplete="off" no set for login forms at the OPAC
+- [[19569]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=19569) X-Frame-Options=SAMEORIGIN is not set from opac-showmarc.pl
+- [[19568]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=19568) Wrong html filter used in opac-opensearch.tt url
 - [[19655]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=19655) To.json doesn't escape newlines which can create invalid JSON
 
 ## Bywater Only
 
+- NOT IN BUGZILLA - Fully qualify call to ModZebra in Items.pm
 - NOT IN BUGZILLA - Bug XXX - Index for 856$z, Electronic-Copy-Availability
-- NOT IN BUGZILLA - Bug 19614: Fix XSS in members/pay.pl
-- NOT IN BUGZILLA - Bug 19612: Fix XSS in members/memberentry.pl
-- NOT IN BUGZILLA - Bug 19611: Fix XSS Flaws in supplier.pl
-- NOT IN BUGZILLA - Bug 19319: Only fetch the record if it exists
-- NOT IN BUGZILLA - Bug 19570: Add autocomplete to opac-main as well
-- NOT IN BUGZILLA - Bug 19569: Set X-Frame-Options=SAMEORIGIN - opac-showmarc.ok
-- NOT IN BUGZILLA - Bug 19568: Escape url params with url filter - opac-opensearch.tt
 
 ## Cataloging
 
