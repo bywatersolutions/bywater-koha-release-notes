@@ -5,6 +5,10 @@
 
 - [[19913]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=19913) Embedded HTML5 videos are broken
 
+## Patrons
+
+- [[20008]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=20008) Restrictions added from memberentry.pl have expiration date ignored if TimeFormat is 12hr
+
 
 
 # Release Notes for bywater-v17.05.07-01
