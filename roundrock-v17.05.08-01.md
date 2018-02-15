@@ -9,6 +9,9 @@
 
 ## Architecture, internals, and plumbing
 
+- [[19738]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=19738) XSS in serials module
+- [[19881]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=19881) authorities-list.pl can be executed by anybody
+- [[19847]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=19847) tracklinks.pl accepts any url from a parameter for proxying
 - [[19760]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=19760) Die instead of warn if koha-conf is not accessible
 - [[19756]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=19756) Encoding issues when update DB is run from the interface
 - [[19599]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=19599) anonymise_issue_history can be very slow on large systems
@@ -19,9 +22,6 @@
 
 - NOT IN BUGZILLA - Fully qualify call to ModZebra in Items.pm
 - NOT IN BUGZILLA - Bug XXX - Index for 856$z, Electronic-Copy-Availability
-- NOT IN BUGZILLA - Bug 19738: Fix XSS on vendor name in serials module
-- NOT IN BUGZILLA - Bug 19881: Remove authorities-list.pl
-- NOT IN BUGZILLA - Bug 19847: Track links within the records and 404 for others
 
 ## Cataloging
 
