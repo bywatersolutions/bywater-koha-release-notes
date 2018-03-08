@@ -17,6 +17,8 @@
 
 ## Bywater Only
 
+- NOT IN BUGZILLA - Revert "BWS-PKG - Add bws auto-rebaser"
+- NOT IN BUGZILLA - Add bws auto-rebaser
 - NOT IN BUGZILLA - Bug XXX - Index for 856$z, Electronic-Copy-Availability
 
 ## Cataloging
