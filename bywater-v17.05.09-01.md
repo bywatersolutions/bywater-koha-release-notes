@@ -17,6 +17,7 @@
 
 ## Bywater Only
 
+- NOT IN BUGZILLA - Koha as CMS follow up - Make home go to "/" instead of "#"
 - NOT IN BUGZILLA - Revert "BWS-PKG - Add bws auto-rebaser"
 - NOT IN BUGZILLA - Add bws auto-rebaser
 - NOT IN BUGZILLA - Bug XXX - Index for 856$z, Electronic-Copy-Availability
