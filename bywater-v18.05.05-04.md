@@ -3,6 +3,7 @@
 
 ## Bywater Only
 
+- NOT IN BUGZILLA - This is an empty commit
 - NOT IN BUGZILLA - Fix audio alerts so selectors can use both single and double quotes without breaking, fixed in master as of 5e3f428ade0a20062df1fd2852cb4cb99ae06f7b
 
 ## Templates
