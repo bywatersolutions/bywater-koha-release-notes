@@ -5,6 +5,10 @@
 
 - NOT IN BUGZILLA - This is an empty commit
 
+## Fines and fees
+
+- [[21673]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=21673) Koha::Account::Lines->total_outstanding must be used when needed
+
 ## Hold requests
 
 - [[21495]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=21495) Regression in hold override functionality
