@@ -1,9 +1,18 @@
 
 # Release Notes for bywater-v18.05.05-05
 
+## Architecture, internals, and plumbing
+
+- [[21896]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=21896) Add Koha::Account::reconcile_balance
+- [[20997]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=20997) Add Koha::Account::Line::apply
+
 ## Bywater Only
 
 - NOT IN BUGZILLA - remove extra line from rebase
+
+## Circulation
+
+- [[18805]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=18805) Add ability to use up account credits
 
 ## Fines and fees
 
