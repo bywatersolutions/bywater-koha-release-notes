@@ -5,6 +5,10 @@
 
 - NOT IN BUGZILLA - This is an empty commit
 
+## Custom For Instance
+
+- NOT IN BUGZILLA - Fix bug introduced by rebase
+
 ## Fines and fees
 
 - [[21673]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=21673) Koha::Account::Lines->total_outstanding must be used when needed
