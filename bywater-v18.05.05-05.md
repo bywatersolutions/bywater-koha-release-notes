@@ -12,6 +12,7 @@
 
 ## Circulation
 
+- [[21915]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=21915) Add a way to automatically reconcile balance for patrons
 - [[18805]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=18805) Add ability to use up account credits
 
 ## Fines and fees
