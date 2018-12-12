@@ -5,6 +5,15 @@
 
 - [[21969]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=21969) Koha::Account->outstanding_* should look for debits/credits by checking 'amount'
 
+## Bywater Only
+
+- NOT IN BUGZILLA - BUG FIX for: Bug XXX - Add option to SIP2 config to send shelving location in CR instead of collection code
+
+## Custom For Instance
+
+- NOT IN BUGZILLA - Make xt/author/translatable-templates.t pass
+- [[10300]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=10300) Allow transferring of items to be have separate IndependentBranches syspref
+
 
 
 # Release Notes for barcodeprfx-v18.05.06-01
