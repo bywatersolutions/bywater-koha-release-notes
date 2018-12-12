@@ -43,6 +43,7 @@
 
 ## Bywater Only
 
+- NOT IN BUGZILLA - BUG FIX for: Bug XXX - Add option to SIP2 config to send shelving location in CR instead of collection code
 - NOT IN BUGZILLA - Bug XXX - Index for 856$z, Electronic-Copy-Availability
 
 ## Cataloging
