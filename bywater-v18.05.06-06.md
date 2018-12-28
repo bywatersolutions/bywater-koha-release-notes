@@ -1,9 +1,17 @@
 
 # Release Notes for bywater-v18.05.06-06
 
+## Bywater Only
+
+- NOT IN BUGZILLA - Fix for failing t/db_dependent/TestBuilder.t
+
 ## Circulation
 
 - [[15524]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=15524) Set limit on maximum possible holds per patron by category
+
+## SIP2
+
+- [[22043]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=22043) SIP Checkin Response alert flag set to often set to Y incorrectly
 
 
 
