@@ -5,6 +5,10 @@
 
 - [[22076]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=22076) SIP checkin for withdrawn item returns ok in checkin response
 
+## Web services
+
+- [[19945]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=19945) ILSDI - Return the reason a reserve is impossible
+
 
 
 # Release Notes for bywater-v18.05.06-06
