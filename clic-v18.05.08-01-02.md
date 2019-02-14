@@ -3,6 +3,7 @@
 
 ## Custom For Instance
 
+- NOT IN BUGZILLA - Fix issues with backported code
 - [[22330]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=22330) Transfer limits should be respected for placing holds in staff interface and APIs
 
 
