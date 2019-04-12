@@ -1,6 +1,10 @@
 
 # Release Notes for barcodeprfx-v18.11.04-03
 
+## Bywater Only
+
+- NOT IN BUGZILLA - Fix bug introduced by rebase
+
 ## Custom For Instance
 
 - [[20256]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=20256) Add ability to limit editing of items to home library
