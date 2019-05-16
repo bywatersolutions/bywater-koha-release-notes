@@ -5,6 +5,10 @@
 
 - NOT IN BUGZILLA - Fix atomic updates
 
+## Custom For Instance
+
+- NOT IN BUGZILLA - Fix issues introduces by rebase to Koha version 18.11
+
 
 
 # Release Notes for barcodeprfx-v18.11.05-02
