@@ -43,6 +43,10 @@
 
 - [[22899]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=22899) Cannot view course details
 
+## Custom For Instance
+
+- NOT IN BUGZILLA - Fix syntax error in batchMod.pl
+
 ## Database
 
 - [[22782]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=22782) Schema change for SocialData
