@@ -1,9 +1,22 @@
 
 # Release Notes for barcodeprfx-v18.11.06-02
 
+## Authentication
+
+- [[22585]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=22585) CAS login link for staff intranet is double-escaped
+
 ## Circulation
 
 - [[22982]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=22982) Paying lost fee does not always remove lost item from checkouts
+
+## Custom For Instance
+
+- NOT IN BUGZILLA - Make xt/author/translatable-templates.t pass
+- [[10300]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=10300) Allow transferring of items to be have separate IndependentBranches syspref
+
+## SIP2
+
+- [[23057]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=23057) If checked_in_ok is set and item is not checked out, alert flag is supressed for *any* reason
 
 
 
