@@ -1,14 +1,6 @@
 
 # Release Notes for bywater-v18.11.06-03
 
-## Authentication
-
-- [[22585]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=22585) CAS login link for staff intranet is double-escaped
-
-## SIP2
-
-- [[23057]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=23057) If checked_in_ok is set and item is not checked out, alert flag is supressed for *any* reason
-
 
 
 # Release Notes for bywater-v18.11.06-02
