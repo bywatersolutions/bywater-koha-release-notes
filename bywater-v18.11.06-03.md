@@ -5,6 +5,10 @@
 
 - NOT IN BUGZILLA - SUBMIT TO COMMUNITY - Supress Holds Queue warning if request has no item but request has an itemtype
 
+## Self checkout
+
+- [[23102]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=23102) 404 errors on page causes SCI user to be logged out
+
 
 
 # Release Notes for bywater-v18.11.06-02
