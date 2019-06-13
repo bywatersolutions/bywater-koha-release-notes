@@ -13,6 +13,12 @@
 
 - [[22982]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=22982) Paying lost fee does not always remove lost item from checkouts
 
+## Custom For Instance
+
+- NOT IN BUGZILLA - Fix syntax error in batchMod.pl
+- NOT IN BUGZILLA - Fix typo Koha::Patrons->new => Koha::Patron->new
+- NOT IN BUGZILLA - Fix issues introduces by rebase to Koha version 18.11
+
 ## Self checkout
 
 - [[23102]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=23102) 404 errors on page causes SCI user to be logged out
