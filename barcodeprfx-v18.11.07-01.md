@@ -23,6 +23,10 @@
 
 - [[18344]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=18344) Overdue fines 'cap at replacement price' and 'cap by amount' should work together
 
+## Custom For Instance
+
+- NOT IN BUGZILLA - Simplify logic for fixup_cardnumber
+
 ## Database
 
 - [[23022]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=23022) Koha is not compatible with MySQL >= 8.0.11 because of NO_AUTO_CREATE_USER mode
