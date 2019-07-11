@@ -5,6 +5,14 @@
 
 - [[23144]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=23144) Bad POD breaks svc/barcode
 
+## Patrons
+
+- [[23283]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=23283) cannot view/edit additional attributes in 18.11.x
+
+## SIP2
+
+- [[23057]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=23057) If checked_in_ok is set and item is not checked out, alert flag is supressed for *any* reason
+
 
 
 # Release Notes for mtpl-v18.11.07-04
