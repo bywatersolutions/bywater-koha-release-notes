@@ -1,6 +1,10 @@
 
 # Release Notes for barcodeprfx-v18.11.07-06
 
+## Custom For Instance
+
+- NOT IN BUGZILLA - Update simplified logic, limit cardnumbers looked at to the same length as the patronbarcodelength syspref
+
 ## Patrons
 
 - [[23283]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=23283) cannot view/edit additional attributes in 18.11.x
