@@ -3,6 +3,7 @@
 
 ## Custom For Instance
 
+- NOT IN BUGZILLA - Clean up C4::Members::_prefix_cardnum
 - NOT IN BUGZILLA - Update simplified logic, limit cardnumbers looked at to the same length as the patronbarcodelength syspref
 
 ## Patrons
