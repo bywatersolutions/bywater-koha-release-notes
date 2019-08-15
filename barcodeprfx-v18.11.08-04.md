@@ -5,11 +5,6 @@
 
 - NOT IN BUGZILLA - Fix object being treated as a hashref, preventing item level holds
 
-## Custom For Instance
-
-- NOT IN BUGZILLA - Make xt/author/translatable-templates.t pass
-- [[10300]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=10300) Allow transferring of items to be have separate IndependentBranches syspref
-
 
 
 # Release Notes for barcodeprfx-v18.11.08-03
