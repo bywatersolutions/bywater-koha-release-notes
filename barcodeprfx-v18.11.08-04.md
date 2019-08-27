@@ -5,6 +5,10 @@
 
 - NOT IN BUGZILLA - Fix object being treated as a hashref, preventing item level holds
 
+## Custom For Instance
+
+- NOT IN BUGZILLA - Fix issue with SCO before searching for patron
+
 
 
 # Release Notes for barcodeprfx-v18.11.08-03
