@@ -41,6 +41,7 @@
 
 ## Custom For Instance
 
+- NOT IN BUGZILLA - Prefix before checking cardnumber for duplicates
 - NOT IN BUGZILLA - Fix issue with SCO before searching for patron
 
 ## Fines and fees
