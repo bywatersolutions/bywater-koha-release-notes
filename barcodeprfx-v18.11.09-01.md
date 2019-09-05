@@ -39,6 +39,12 @@
 - [[22142]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=22142) An item's current location changes to blank when it is removed from Course Reserves
 - [[23083]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=23083) Course reserve item edit fails if one does not set all values
 
+## Custom For Instance
+
+- NOT IN BUGZILLA - Make xt/author/translatable-templates.t pass
+- [[10300]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=10300) Allow transferring of items to be have separate IndependentBranches syspref
+- NOT IN BUGZILLA - Prefix before checking cardnumber for duplicates
+
 ## Fines and fees
 
 - [[23143]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=23143) [18.11] Filter paid transactions not working
