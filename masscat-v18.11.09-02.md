@@ -3,8 +3,6 @@
 
 ## Custom For Instance
 
-- [[20256]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=20256) Add ability to limit editing of items to home library
-- [[22330]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=22330) Transfer limits should be respected for placing holds in staff interface and APIs
 - NOT IN BUGZILLA - Prefix before checking cardnumber for duplicates
 
 ## ILL
