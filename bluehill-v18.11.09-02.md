@@ -1,6 +1,10 @@
 
 # Release Notes for bluehill-v18.11.09-02
 
+## Custom For Instance
+
+- [[22280]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=22280) The ILL module assumes every status needs a next/previous status
+
 ## ILL
 
 - [[21406]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=21406) Not adding author to request can cause JS errors
