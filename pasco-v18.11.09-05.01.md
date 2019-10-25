@@ -1,6 +1,10 @@
 
 # Release Notes for pasco-v18.11.09-05.01
 
+## Custom For Instance
+
+- [[23806]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=23806) FinePaymentAutoPopup does not trigger pop-up for writeoff by "Write off" button
+
 
 
 # Release Notes for pasco-v18.11.09-05
