@@ -1,6 +1,10 @@
 
 # Release Notes for mdah-v19.05.04-06
 
+## Custom For Instance
+
+- NOT IN BUGZILLA - Update schema files for hold printing feature
+
 ## Searching - Elasticsearch
 
 - [[23986]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=23986) Batch Record Deletion does not remove records from Elasticsearch search index
