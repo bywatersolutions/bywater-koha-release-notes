@@ -1,6 +1,10 @@
 
 # Release Notes for bywater-v19.05.04-07
 
+## Bywater Only
+
+- NOT IN BUGZILLA - GITHUB ACTIONS - Initial commit
+
 ## Command-line Utilities
 
 - [[23933]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=23933) commit_file.pl Can't call method "get_effective_marcorgcode" on an undefined value at /usr/share/koha/lib/C4/AuthoritiesMarc.pm line 578.
