@@ -1,19 +1,16 @@
 
 # Release Notes for bywater-v19.05.04-09
 
-## Bywater Only
-
-- NOT IN BUGZILLA - Test commit 3
-- NOT IN BUGZILLA - Test commit 2
-- NOT IN BUGZILLA - Test commit 1
-- NOT IN BUGZILLA - GitHub Actions - Testing Auto-Rebaser
-
 
 
 # Release Notes for bywater-v19.05.04-08
 
 ## Bywater Only
 
+- NOT IN BUGZILLA - Test commit 3
+- NOT IN BUGZILLA - Test commit 2
+- NOT IN BUGZILLA - Test commit 1
+- NOT IN BUGZILLA - GitHub Actions - Testing Auto-Rebaser
 - NOT IN BUGZILLA - GitHub Actions
 
 ## Circulation
