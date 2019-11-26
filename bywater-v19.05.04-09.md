@@ -1,6 +1,10 @@
 
 # Release Notes for bywater-v19.05.04-09
 
+## Hold requests
+
+- [[23964]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=23964) An item level hold when placed is set to Waiting, if ReservesNeedReturn is set to Automatic
+
 
 
 # Release Notes for bywater-v19.05.04-08
