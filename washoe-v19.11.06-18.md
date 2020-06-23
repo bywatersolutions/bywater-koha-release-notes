@@ -3,6 +3,7 @@
 
 ## Bywater Only
 
+- NOT IN BUGZILLA - GitHub Actions - Only run unit tests job unless the latest commit sets a mark
 - NOT IN BUGZILLA - GitHub Actions - Pass token directly to docker env
 
 ## Command-line Utilities
