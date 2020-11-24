@@ -15,6 +15,10 @@
 
 - [[26750]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=26750) Deleted items are not removed from index
 
+## Custom For Instance
+
+- [[26633]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=26633) Add advanced editor for transfer limits
+
 ## OPAC
 
 - [[26973]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=26973) extendedPatronAttributes not showing during selfregistration
