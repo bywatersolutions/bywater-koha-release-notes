@@ -25,6 +25,10 @@
 - [[27245]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=27245) bulkmarcimport.pl error 'Already in a transaction'
 - [[27085]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=27085) Corrections in overdue_notices.pl help text
 
+## Custom For Instance
+
+- [[27562]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=27562) itiva notices break if record title contains quotes
+
 ## Database
 
 - [[27003]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=27003) action_logs table error when adding an item
