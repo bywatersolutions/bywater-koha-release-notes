@@ -49,6 +49,10 @@
 - [[14564]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=14564) Incorrect permissions prevent web download of configuration backups
 - [[26337]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=26337) Remove unused authorities script should skip merge
 
+## Custom For Instance
+
+- NOT IN BUGZILLA - Fix bug causing javascript error, again, again
+
 ## Database
 
 - [[27003]](http://bugs.koha-community.org/bugzilla3/show_bug.cgi?id=27003) action_logs table error when adding an item
