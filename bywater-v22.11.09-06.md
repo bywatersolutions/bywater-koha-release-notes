@@ -3,6 +3,7 @@
 
 ## Bywater Only
 
+- NOT IN BUGZILLA - GitHub Actions - Disable auto-rebasing for this release whil testing setting the default branch
 - NOT IN BUGZILLA - Set default branch using GitHub Actions
 
 
