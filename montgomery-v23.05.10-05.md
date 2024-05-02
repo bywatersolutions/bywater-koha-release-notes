@@ -7,6 +7,7 @@
 
 ## Bywater Only
 
+- NOT IN BUGZILLA - Update koha-dpkg to use the image 'main'
 - NOT IN BUGZILLA - GitHub Actions - Enable SKIP_L10N
 
 ## SIP2
